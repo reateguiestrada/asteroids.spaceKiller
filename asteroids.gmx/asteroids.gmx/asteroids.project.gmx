@@ -4,10 +4,16 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sound_bg</sound>
+    <sound>sound\sound_shoot</sound>
+    <sound>sound\sound_destroy_ship</sound>
+    <sound>sound\sound_destroy_ast</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprite_ship</sprite>
     <sprite>sprites\sprite_shoot</sprite>
+    <sprite>sprites\sprite_asteroid</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -16,6 +22,9 @@
   <objects name="objects">
     <object>objects\obj_ship</object>
     <object>objects\obj_shoot</object>
+    <object>objects\obj_asteroid</object>
+    <object>objects\obj_score</object>
+    <object>objects\obj_bg_sound</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\level1</room>
