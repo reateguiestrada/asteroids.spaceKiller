@@ -52,24 +52,10 @@
   </views>
   <instances>
     <instance objName="obj_ship" x="928" y="960" name="inst_A02DAD81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="192" y="160" name="inst_A9156336" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="1152" y="160" name="inst_DF3EF8DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="1824" y="416" name="inst_2CD23770" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="832" y="448" name="inst_4146E46F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="288" y="992" name="inst_C160F35A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_asteroid" x="1472" y="1024" name="inst_D345186B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="128" y="1504" name="inst_DBF3033C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="544" y="1824" name="inst_30884A86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="736" y="1536" name="inst_DCC3CDCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="1088" y="1792" name="inst_7D69B18E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="1856" y="1216" name="inst_967DBC72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="1536" y="1536" name="inst_813342C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="1632" y="1824" name="inst_5955CFA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="320" y="512" name="inst_10280E5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="1824" y="768" name="inst_00881DF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asteroid" x="1408" y="448" name="inst_A598744A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_score" x="96" y="64" name="inst_8B6BCE07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_hud" x="96" y="64" name="inst_8B6BCE07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bg_sound" x="32" y="224" name="inst_0229C0DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_spawner" x="32" y="288" name="inst_19A21E46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

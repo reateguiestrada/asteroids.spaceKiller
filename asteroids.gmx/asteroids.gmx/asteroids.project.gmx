@@ -9,11 +9,13 @@
     <sound>sound\sound_shoot</sound>
     <sound>sound\sound_destroy_ship</sound>
     <sound>sound\sound_destroy_ast</sound>
+    <sound>sound\sound_round_up</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprite_ship</sprite>
     <sprite>sprites\sprite_shoot</sprite>
     <sprite>sprites\sprite_asteroid</sprite>
+    <sprite>sprites\sprite_deadplayer</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -23,8 +25,10 @@
     <object>objects\obj_ship</object>
     <object>objects\obj_shoot</object>
     <object>objects\obj_asteroid</object>
-    <object>objects\obj_score</object>
+    <object>objects\obj_hud</object>
     <object>objects\obj_bg_sound</object>
+    <object>objects\obj_spawner</object>
+    <object>objects\obj_deadplayer</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\level1</room>
